@@ -13,9 +13,9 @@ function About() {
          <div className="about__data">
 
          
-         <p className='about__description'>Certified Full Stack Developer with quite few own projects looking for an 
-         opportunity to work and excel my skills in an organization and 
-         interested to explore and work on complex projects.</p>
+         <p className='about__description'>Hello! I'm Dhameemul Ansari I, a passionate Full Stack Developement. I develop web applications. My core skill is based on
+JavaScript and I love to do most of the things using JavaScript. I love to make the web more open to the world. I have graduated with a bachelor's degree in Computer Application from Nehru Arts And Science College at
+Coimbatore, TamilNadu in 2022. I am available for any kind of job opportunity that suits my interests.</p>
          <a  href="https://drive.google.com/file/d/1_0d4U8zXoW_xlDQbrvWQOpjVETnvytCf/view?usp=share_link" 
          className="button button__cv button--flex" target="_blank">Download CV</a>
         </div>
