@@ -53,7 +53,7 @@ export const projectsData = [
     id:4,
     image: work4,
     title: "todo App",
-    demo:"https://superlative-rabanadas-0eda53.netlify.app",
+    demo:"https://creative-monstera-114ca6.netlify.app",
     git: "https://github.com/Dhameem99/client.git",
     des:"ToDo List App is a kind of app that generally used to maintain our day-to-day tasks or list everything that we have to do, with the most important tasks at the top of the list, and the least important tasks at the bottom. It is helpful in planning our daily schedules",
     techStack1: "Reactjs",
