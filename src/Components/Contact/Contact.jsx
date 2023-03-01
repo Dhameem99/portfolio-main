@@ -37,7 +37,7 @@ function Contact() {
         },
     onSubmit:  (values, {resetForm}) => {
             console.log(values);
-            emailjs.sendForm('service_4f0kufd', 'template_apywy2a', form.current, 'IVuz-Xfi4lw-tIyRu')
+            emailjs.sendForm('service_6tqk8vl', 'template_7hckzid', form.current, 'ayqBpwx9-PjPFgzf7')
       .then((result) => {
           console.log(result.text);
           console.log(result.status);
